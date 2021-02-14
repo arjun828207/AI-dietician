@@ -12,7 +12,7 @@ Documented By- Arjun Pandey
 
 How to Run this Code?
 Follow these steps:
-        1. Clone this Project https://github.com/prabureddy/AI_Dietician_Django.git
+        1. Clone this Project https://github.com/arjun828207/AI_Dietician_Django.git
         2. Open your terminal in AI_Dietician/ folder which contains requirements.txt file.
         3. Create virtual environment
                 Steps to create Virtual Environment
